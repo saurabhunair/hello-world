@@ -1,2 +1,2 @@
 # hello-world
-first git project
+first git project, lets hope we make something new
